@@ -1,4 +1,4 @@
-*Bayesian Multiply Robust Estimaton of the Average Causal Effect*
+Bayesian Multiply Robust Estimaton of the Average Causal Effect
 
 Please follow the following steps to compute the multiply robust projection and calibration estimator (Gochanour et al., 2021+) of
 the Average Causal Effect (ACE). Hopefully this code will soon be implemented in an R package to make things even easier. Until then,
